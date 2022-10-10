@@ -2,8 +2,8 @@
 # WEB PHISHING DETECTION <picture>
   <b> IBM-Project-4244-1658725622 </b>
 
-Technology : Machine Learning       
 Team ID    : PNT2022TMID00733  
+Technology : Machine Learning       
   
 ### TEAM MEMBERS :
    
