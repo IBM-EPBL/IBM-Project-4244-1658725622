@@ -1,6 +1,6 @@
 ![Untitled (640 × 360px) (1280 × 250px) (1280 × 360px)](https://user-images.githubusercontent.com/90196121/194907593-e4b80a67-2eff-4519-ad09-bfdff5b826a9.png)
 <center>
-# Web Phishing Detection <picture> <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="30" height="30"></picture>
+# Web Phishing Detection <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="30" height="30"></picture>
 IBM-Project-4244-1658725622
 
   
