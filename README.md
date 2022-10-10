@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="https://bit.ly/34xv1El" alt="Logo" width="320" height="128">
+<img src="https://user-images.githubusercontent.com/90196121/194901083-f11a3f08-8278-4ab6-bafa-92c88f20e355.jpg" alt="Logo" width="320" height="128">
   </a>
                    
 # IBM-Project-4244-1658725622
