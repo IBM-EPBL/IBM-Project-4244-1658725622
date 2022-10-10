@@ -5,14 +5,13 @@
 Technology : Machine Learning       
 Team ID    : PNT2022TMID00733  
   
-<p style="font-family:Times New Roman">
-  ### TEAM MEMBERS :
+### TEAM MEMBERS :
    
   - Saravanakumar R  - Team Leader
   - Sricharan S      - Team Member1
   - Sriram R         - Team Member2
   - Sri Sanjay S     - Team Member3
-  </p>  
+  
  ## PROJECT OBJECTIVES: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="25" height="25" />
 
  #### By the end of this project :
