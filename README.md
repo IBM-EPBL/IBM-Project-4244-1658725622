@@ -1,3 +1,4 @@
+<p style="font-family:Times New Roman">
 ![Untitled (640 × 360px) (1280 × 250px) (1280 × 360px)](https://user-images.githubusercontent.com/90196121/194907593-e4b80a67-2eff-4519-ad09-bfdff5b826a9.png)
 # WEB PHISHING DETECTION <picture>
   <b> IBM-Project-4244-1658725622 </b>
@@ -39,3 +40,4 @@ Team ID    : PNT2022TMID00733
  
  ## TECHNICAL ARCHITECTURE :
   ![pasted image 0](https://user-images.githubusercontent.com/62200224/191585875-9db35871-72b5-476e-ac9b-3795cf3778de.png)
+  </p>
