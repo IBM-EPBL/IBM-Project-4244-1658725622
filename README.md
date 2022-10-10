@@ -1,11 +1,7 @@
-<div align="center">
-
-<!-- PROJECT LOGO -->
-
-<br />
-![Untitled (640 × 360px) (1280 × 250px) (1280 × 360px)](https://user-images.githubusercontent.com/90196121/194901083-f11a3f08-8278-4ab6-bafa-92c88f20e355.jpg)
+![Untitled (640 × 360px) (1280 × 250px) (1280 × 360px)](https://user-images.githubusercontent.com/90196121/194901919-f2a4c332-13df-4164-bc56-709075f4aa86.jpg)
 # Web Phishing Detection <picture> <picture><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="30" height="30"></picture>
-  </a>
+
+
                    
 # IBM-Project-4244-1658725622
   </div> 
