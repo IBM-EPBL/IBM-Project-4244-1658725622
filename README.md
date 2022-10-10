@@ -8,7 +8,7 @@ Technology : Machine Learning
 ### TEAM MEMBERS :
    
   - Saravanakumar R  - Team Leader
-  - Sricharan S      - Team Member1
+  - Sricharan S                     - Team Member1
   - Sriram R         - Team Member2
   - Sri Sanjay S     - Team Member3
   
