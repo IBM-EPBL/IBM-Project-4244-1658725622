@@ -12,6 +12,12 @@ Technology : Machine Learning
   - Sriram R         - Team Member2
   - Sri Sanjay S     - Team Member3
   
+# What is Phishing?
+
+Phishing is a form of fraud in which an attacker masquerades as a reputable entity or person in email or other forms of communication. Attackers will commonly use phishing emails to distribute malicious links or attachments that can perform a variety of functions. Some will extract login credentials or account information from victims.
+
+Deceptive phishing is popular with cybercriminals, as it is far easier to trick someone into clicking a malicious link in a seemingly legitimate phishing email than it is to break through a computer's defenses. Learning more about phishing is important to learn how to detect and prevent it.
+  
  ## PROJECT OBJECTIVES: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="25" height="25" />
 
  #### By the end of this project :
