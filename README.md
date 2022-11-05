@@ -1,7 +1,7 @@
 <h1 align="center" style="margin-top: 0px;">  WEB PHISHING DETECTION </h1>
 <h2 align="center" style="margin-top: 0px;"> TECHNOLOGY - Machine Learning </h2>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/90196121/194907593-e4b80a67-2eff-4519-ad09-bfdff5b826a9.png" width="550" hight="300" title="Phishing Attack"]
+  ![Untitled (640 × 360px) (1280 × 250px) (1280 × 360px)](https://user-images.githubusercontent.com/90196121/200116879-3b5c99c1-976d-44c6-8414-eace18fd7539.png)
 </p>
 
 Team ID    : PNT2022TMID00733  
