@@ -3,8 +3,8 @@
  
 <b> IBM-Project-4244-1658725622 </b>
 
-Team ID    : PNT2022TMID00733  
-Technology : Machine Learning       
+ <b>Team ID</b>    : PNT2022TMID00733  
+ <b>Technology</b> : Machine Learning       
   
 ### TEAM MEMBERS :
    
