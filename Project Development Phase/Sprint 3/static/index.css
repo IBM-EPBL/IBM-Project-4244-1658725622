@@ -1,0 +1,104 @@
+#title{
+    padding-top: 1cm;
+    padding-left: 4cm;
+    color: rgb(255, 121, 39);
+    font-size: 1cm;
+     }
+    #sub-t{
+        padding-left: 4cm;
+        color: rgb(51, 229, 57);
+        margin-bottom: -1cm;
+        padding-top: 4cm;
+        font-size: 60px;
+    }
+    #blue{
+        background-color: #000718;
+        height: 27cm;
+    }
+    #white{
+        background-color: white;
+    }
+    p{
+        color: rgb(216, 215, 215);
+        font-size: .8cm;
+        padding-left: 4cm;
+    }
+    h1{
+        font-size: 2cm;
+        color: rgb(126, 55, 55);
+    }
+    a{
+        font-size: .7cm;
+        color: rgb(255, 222, 60);
+        font-style: normal;
+        padding: 1cm;
+        text-decoration: none;
+    }
+    span{
+        padding-left: 4cm;
+        padding-right: 2cm;
+        color: white;
+        font-size: .8cm;
+
+    }
+    #start{
+        border-radius: 50px;
+        height: 1.5cm;
+        width: 5cm;
+        background-color: #d81e1e;
+        color: rgb(101, 147, 255);
+        cursor: pointer;
+        padding-bottom: 50px;
+        padding-right: 250px;
+        
+        text-align: justify;
+    }
+    img{
+        padding: 100px;
+    }
+    #dark{
+        background-color: #1a396b;
+        color: rgb(255, 255, 255);
+        height: 15cm;
+        margin-bottom: 2cm;
+    }
+    #stop{
+        border-radius: 50px;
+        height: 1.5cm;
+        width: 5cm;
+        background-color: #0a9ff0;
+        color: white;
+        padding: 10px;
+        cursor: pointer;
+    }
+    #s1{
+        padding-top: 3cm;
+        color: white;
+    }
+    #div1{
+        height: fit-content;
+        width: fit-content;
+        display: inline-block;
+
+    }
+    #div2{
+        height: fit-content;
+        width: fit-content;
+        display: inline-block;
+    }
+    button{
+        padding: 15px 32px;
+        font-size: 16px;
+        height: 25px; 
+        width: 100px
+    }
+    
+    .footer{
+        position: relative;
+        left: 0;
+        bottom: 0;
+        color: #000718;
+        text-align: center;
+        font-size: 25px;
+        background-color: #000718;
+      }  
