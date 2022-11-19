@@ -1,0 +1,60 @@
+#title{
+    padding-bottom: 2cm;
+    padding-left: 2cm;
+    padding-top: 1cm;
+    color: rgb(255, 121, 39);
+    font-size: normal;
+     }
+    body{
+        background-image: url('new.jpg');
+        background-repeat: no-repeat;
+        background-color: white;
+        
+    }
+    a{
+        color: white;
+        font-size: normal;
+        font-style: normal;
+        padding: 2cm;
+    }
+    #blue{
+        height: 2cm;
+    }
+    #white{
+        color: rgb(255, 255, 255);
+        padding-top: 4cm;
+        font-size: 24;
+    }
+    #start{
+        border-radius: 90px;
+        height: 1.5cm;
+        width: 7cm;
+        background-color: #0098eb;
+        color: white;
+        padding: 10px;
+        cursor: pointer;
+    }
+  input[type=text]{
+    width:50%;
+    border:2px solid #aaa;
+    border-radius:4px;
+    margin:8px 0;
+    outline:none;
+    padding:8px;
+    box-sizing:border-box;
+    transition:.3s;
+  }
+  
+  input[type=text]:focus{
+    border-color:dodgerBlue;
+    box-shadow:0 0 8px 0 dodgerBlue;
+  }
+  footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+  }  

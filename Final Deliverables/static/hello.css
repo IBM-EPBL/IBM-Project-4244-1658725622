@@ -1,0 +1,92 @@
+#title{
+    padding-top: 1cm;
+    padding-left: 4cm;
+    color: white;
+    font-size: 1cm;
+     }
+    #sub-t{
+        padding-left: 4cm;
+        color: white;
+        margin-bottom: -1cm;
+        padding-top: 4cm;
+    }
+    #blue{
+        background-color: #1a396b;;
+        height: 27cm;
+
+    }
+    #white{
+        background-color: white;
+    }
+    p{
+        color: grey;
+        font-size: .8cm;
+        padding-left: 4cm;
+    }
+    h1{
+        font-size: 2cm;
+        color: white;
+    }
+    a{
+        font-size: .7cm;
+        color: white;
+        font-style: normal;
+        padding: 1cm;
+        text-decoration: none;
+    }
+    span{
+        padding-left: 4cm;
+        padding-right: 2cm;
+        color: white;
+        font-size: .8cm;
+
+    }
+    #start{
+        border-radius: 50px;
+        height: 1.5cm;
+        width: 5cm;
+        background-color: #0a9ff0;
+        color: white;
+        padding: 10px;
+        cursor: pointer;
+
+    }
+    img{
+        padding: 190px;
+    }
+    #dark{
+        background-color: #1a396b;
+        color: white;
+        height: 15cm;
+        margin-bottom: 2cm;
+    }
+    #stop{
+        border-radius: 50px;
+        height: 1.5cm;
+        width: 5cm;
+        background-color: #0a9ff0;
+        color: white;
+        padding: 10px;
+        cursor: pointer;
+    }
+    #s1{
+        padding-top: 3cm;
+        color: white;
+    }
+    #div1{
+        height: fit-content;
+        width: fit-content;
+        display: inline-block;
+
+    }
+    #div2{
+        height: fit-content;
+        width: fit-content;
+        display: inline-block;
+    }
+    button{
+        padding: 15px 32px;
+        font-size: 16px;
+        height: 25px; 
+        width: 100px
+    }
